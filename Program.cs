@@ -4,6 +4,7 @@ namespace CourseProject
 {
     class Program
     {
+        [STAThread]
         static void Main(string[] args)
         {
             int passwordLength;
@@ -39,6 +40,11 @@ namespace CourseProject
             Console.WriteLine();
             Console.WriteLine("Сгенерированный пароль:");
             Console.WriteLine(password);
+
+            Clipboard.SetText(password);
+
+            Console.WriteLine();
+            Console.WriteLine("Пароль был успешно скопирован");
             Console.WriteLine();
             Console.WriteLine("Нажмите любую клавишу для выхода...");
             Console.ReadKey();
