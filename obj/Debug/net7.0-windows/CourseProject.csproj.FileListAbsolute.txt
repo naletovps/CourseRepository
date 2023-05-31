@@ -1,0 +1,15 @@
+C:\Users\nalet\source\repos\CourseProject\bin\Debug\net7.0-windows\CourseProject.exe
+C:\Users\nalet\source\repos\CourseProject\bin\Debug\net7.0-windows\CourseProject.deps.json
+C:\Users\nalet\source\repos\CourseProject\bin\Debug\net7.0-windows\CourseProject.runtimeconfig.json
+C:\Users\nalet\source\repos\CourseProject\bin\Debug\net7.0-windows\CourseProject.dll
+C:\Users\nalet\source\repos\CourseProject\bin\Debug\net7.0-windows\CourseProject.pdb
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.csproj.AssemblyReference.cache
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.AssemblyInfoInputs.cache
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.AssemblyInfo.cs
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.dll
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\refint\CourseProject.dll
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.pdb
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\CourseProject.genruntimeconfig.cache
+C:\Users\nalet\source\repos\CourseProject\obj\Debug\net7.0-windows\ref\CourseProject.dll
